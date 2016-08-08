@@ -1,0 +1,25 @@
+_repo: The-Case-and-the-Girl_12357
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parrish, Randall
+    birthdate: 1858
+    deathdate: 1923
+    gutenberg_agent_id: '2217'
+    url: http://www.gutenberg.org/2009/agents/2217
+description: ''
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Inheritance and succession -- Fiction'
+- !lcsh 'Mystery fiction'
+- !lcc 'PS'
+- GITenberg
+title: The Case and the Girl
+url: http://www.gutenberg.org/ebooks/12357
